@@ -1,0 +1,13 @@
+h1 {
+ text-align: center;
+}
+
+.form {
+ padding: 5px;
+ box-shadow: 0 4px 8px black;
+ transition: 0.3s;
+}
+
+.form-group {
+ margin: 5px 0px;
+}
